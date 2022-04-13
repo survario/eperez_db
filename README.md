@@ -9,6 +9,7 @@ II - Crear en MySQL schema Base de Datos de nombre "ecommerce"
 II - Ingrese estas instrucciones en la terminal:
 
 1- npm run crearTablas
+
 2- npm start
 
 Acceder a la web en la url localhost:8080
