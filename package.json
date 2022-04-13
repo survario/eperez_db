@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "eperez_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "crearTablas": "node crearTablas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^5.2.0",
+    "knex": "^0.95.15",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.4.1",
+    "sqlite3": "^5.0.2"
+  }
+}
